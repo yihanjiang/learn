@@ -5,5 +5,8 @@ Sorry for this delay, I have been interning and dealing with other things. We ar
 
 You can email me at yij021@uw.edu for the very drafty code.
 
-Just noticed that I might missed a few emails when I am in China, some wired issue on my email account. 
+My feeling is the LEARN code is limited in memory, while [Turbo Autoencoder] (https://github.com/yihanjiang/turboae/) is the right way to solve this issue.
+
+ 
+
 
